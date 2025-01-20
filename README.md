@@ -1,6 +1,6 @@
-# VS Code Editor Packages
+# VS Code Editor Packages and Settings
 
-This document highlights some essential and popular packages for enhancing your productivity in **VS Code**. Whether you're working with **HTML**, **JavaScript**, **React**, **Vue**, or **Python**, there's a package for every use case.
+This document highlights essential **VS Code** packages and settings to enhance your productivity. Whether you're working with **HTML**, **JavaScript**, **React**, **Vue**, or **Python**, there's a package and setting for every use case.
 
 ---
 
@@ -286,6 +286,70 @@ MDC - Markdown Components
 
 ---
 
+## VS Code Settings Tips
+Here are some VS Code settings that can help improve your development workflow:
+
+- **1. Auto Duplicate Lines**  
+  You can set up auto duplication of lines in VS Code by customizing the key bindings.
+```bash
+{
+  "key": "ctrl+d",
+  "command": "editor.action.copyLinesDownAction"
+}
+```
+
+- **2. Word Wrap**  
+  Enable word wrapping for long lines in your code:
+```bash
+{
+  "editor.wordWrap": "on"
+}
+```
+
+- **3. Auto Save**  
+  Enable Auto Save so that your code is saved automatically after a short delay:
+```bash
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000
+}
+```
+
+- **4. Format On Save**  
+  Automatically format your code when you save the file. This helps keep your code neat:
+```bash
+{
+  "editor.formatOnSave": true
+}
+```
+
+- **5. Editor Line Numbers**  
+  Display line numbers for easy navigation in your code:
+```bash
+{
+  "editor.lineNumbers": "on"
+}
+```
+
+- **6. Bracket Pair Colorization**  
+  Enable colorized bracket pairs to visually distinguish different levels of code blocks:
+```bash
+{
+  "editor.bracketPairColorization.enabled": true
+}
+```
+
+
 ## Conclusion
 
-This list covers a wide range of packages that enhance your productivity, whether you're coding in **JavaScript**, **Python**, **PHP**, or working with **databases**. Install these extensions in your VS Code editor to boost your development workflow!
+This list covers a wide range of packages and settings that enhance your productivity, whether you're coding in JavaScript, Python, PHP, or working with databases. Install these extensions and use these settings in your VS Code editor to boost your development workflow!
+
+
+### Key Enhancements:
+1. **VS Code Settings Section**: Added a section dedicated to useful VS Code settings.
+   - Settings like **Auto Duplicate Lines**, **Word Wrap**, **Auto Save**, **Format On Save**, and more.
+2. **Descriptions**: Explained each setting and how it can enhance your workflow.
+3. **Structured Format**: Organized settings in a clear, easy-to-read way with sample code snippets.
+
+This should give you both the **VS Code packages** and helpful **settings tips** in one place. Let me know if you need further adjustments!
+
