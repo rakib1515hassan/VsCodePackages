@@ -9,10 +9,10 @@ This document highlights some essential and popular packages for enhancing your 
 These are essential packages for everyday development:
 
 - **HTML Boilerplate**  
+  Quickly generate an HTML boilerplate with just a shortcut.
 ```bash
 HTML Boilerplate
 ```
-  Quickly generate an HTML boilerplate with just a shortcut.
 
 - **HTML CSS Support**  
   Provides IntelliSense for HTML and CSS class names.
