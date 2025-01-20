@@ -291,29 +291,43 @@ Here are some VS Code settings that can help improve your development workflow:
 
 - **1. Auto Duplicate Lines**  
   You can set up auto duplication of lines in VS Code by customizing the key bindings.
+
+  Keyboard shortcuts -> Duplicate Selection, SET:- (ctrl + d)
+  or,
 ```bash
 {
   "key": "ctrl+d",
   "command": "editor.action.copyLinesDownAction"
 }
 ```
+  
 
 - **2. Word Wrap**  
   Enable word wrapping for long lines in your code:
+
+  Word Wrap, SET:- (on)
+  or,
 ```bash
 {
   "editor.wordWrap": "on"
 }
 ```
 
+
+
 - **3. Auto Save**  
   Enable Auto Save so that your code is saved automatically after a short delay:
+
+  Files: Auto Save, SET:- (afterDelay)
+  Files: Auto Save Delay, SET:- (100)
+  or,
 ```bash
 {
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 1000
+  "files.autoSaveDelay": 100
 }
 ```
+
 
 - **4. Format On Save**  
   Automatically format your code when you save the file. This helps keep your code neat:
