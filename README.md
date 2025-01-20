@@ -339,6 +339,7 @@ Here are some VS Code settings that can help improve your development workflow:
 }
 ```
 
+---
 
 ## Conclusion
 
