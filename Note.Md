@@ -69,6 +69,10 @@ Tabnine: AI Chat & Autocomplete for
 ```
 
 ```bash
+Windsurf Plugin (formerly Codeium): AI Coding Autocomplete and Chat 
+```
+
+```bash
 Thunder Client
 ```
 
@@ -86,6 +90,10 @@ Formatting Toggle
 
 ```bash
 IntelliSense for CSS class names in H
+```
+
+```bash
+FileTree Pro
 ```
 
 
