@@ -104,6 +104,12 @@ Path Intellisense
 Tabni
 ```
 
+- **Windsurf**  
+  AI-powered autocomplete and coding assistance.
+```bash
+Windsurf Plugin (formerly Codeium): AI Coding Autocomplete and Chat 
+```
+
 - **Thunder Client**  
   A powerful REST API client built into VS Code.
 ```bash
@@ -134,6 +140,11 @@ Formatting Toggle
 IntelliSense for CSS class names in H
 ```
 
+- **File Tree**  
+  File tree
+```bash
+FileTree Pro
+```
 ---
 
 ## React and Next.js
